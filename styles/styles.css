@@ -167,4 +167,7 @@ footer {
     color: var(--cor-backgroud);
     font-family: var(--fonte-inter);
     font-weight: 400;
+    font-size: x-large;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
