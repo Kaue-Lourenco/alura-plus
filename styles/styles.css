@@ -161,3 +161,10 @@ footer {
 .rodape_lista_link:hover {
     color: #167BF7;
 }
+
+.criador {
+    background-color: var(--botao-azul);
+    color: var(--cor-backgroud);
+    font-family: var(--fonte-inter);
+    font-weight: 400;
+}
