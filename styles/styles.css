@@ -148,6 +148,10 @@ footer {
     font-size: 16px;
 }
 
+.lsta_link {
+    list-style-type: none;
+}
+
 .rodape_lista_link {
     text-decoration: none;
     color: var(--cor-primaria);
