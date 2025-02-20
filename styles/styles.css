@@ -164,10 +164,10 @@ footer {
 
 .criador {
     background-color: var(--botao-azul);
-    color: var(--cor-backgroud);
+    color: #22d4fd;
     font-family: var(--fonte-inter);
     font-weight: 400;
     font-size: x-large;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
