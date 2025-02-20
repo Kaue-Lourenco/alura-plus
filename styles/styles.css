@@ -174,3 +174,88 @@ footer {
     margin-top: 2%;
     margin-bottom: 2%;
 }
+
+@media screen and (max-width: 768px) {
+    body {
+        max-width: 100%;
+    }
+
+    .conteiner {
+        display: block;
+        background-image: none;
+    }
+
+    .apresentacao_conteudo {
+        margin: 10%;
+    }
+
+    .apresentacao_img {
+        width: 90%;
+    }
+
+    .assista {
+        text-align: center;
+        margin: 10%;
+    }
+
+    .assista_img {
+        margin: 0;
+    }
+
+    .paragrafo {
+        width: auto;
+        line-height: 1.5rem;
+    }
+
+    .combo {
+        text-align: center;
+        margin: 5% 10%;
+    }
+
+    .botao_menor {
+        margin-top: 2rem;
+        width: auto;
+    }
+
+    .combo_img {
+        margin-top: 2rem;
+        width: 90%;
+    }
+
+    .texto {
+        margin-bottom: 2rem;
+    }
+
+    .baixe_cursos {
+        margin: 5% 10%;
+        text-align: center;
+    }
+
+    .baixe_cursos_img {
+        margin-bottom: 2rem;
+        margin-left: 0;
+    }
+
+    .dispositivos {
+        margin: 5% 10%;
+    }
+
+    .dispositivos_div {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .rodape_lista {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .informacoes_div {
+        margin: 0 10%;
+    }
+
+    .criador {
+        margin: 2rem 0;
+    }
+
+}
